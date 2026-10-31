@@ -22,5 +22,40 @@
         "name": "minecraft:random/drink"
       }
     ]
+  },
+  "player.cough": {
+    "sounds": [
+      {
+        "name": "minecraft:mob/villager/no1",
+        "pitch": 1.3
+      }
+    ]
+  },
+  "structure.collapse": {
+    "sounds": [
+      {
+        "name": "minecraft:dig/stone1",
+        "pitch": 0.6
+      },
+      {
+        "name": "minecraft:dig/gravel1",
+        "pitch": 0.7
+      }
+    ]
+  },
+  "workshop.forge": {
+    "sounds": [
+      {
+        "name": "minecraft:random/anvil_use"
+      }
+    ]
+  },
+  "workshop.cook": {
+    "sounds": [
+      {
+        "name": "minecraft:random/fizz",
+        "volume": 0.5
+      }
+    ]
   }
 }

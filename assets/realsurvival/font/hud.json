@@ -26,6 +26,51 @@
       "chars": [
         "\ue002"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/thermo_cold.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/thermo_ok.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/thermo_hot.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/sick.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/pack.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue007"
+      ]
     }
   ]
 }
