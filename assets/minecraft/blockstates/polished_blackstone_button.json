@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "realsurvival:block/pebble",
+        "y": 0
+      },
+      {
+        "model": "realsurvival:block/pebble",
+        "y": 90
+      },
+      {
+        "model": "realsurvival:block/pebble",
+        "y": 180
+      },
+      {
+        "model": "realsurvival:block/pebble",
+        "y": 270
+      }
+    ]
+  }
+}

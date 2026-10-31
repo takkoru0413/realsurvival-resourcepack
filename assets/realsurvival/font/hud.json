@@ -1,0 +1,31 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/water_full.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/water_half.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/water_empty.png",
+      "ascent": 8,
+      "height": 9,
+      "chars": [
+        "\ue002"
+      ]
+    }
+  ]
+}

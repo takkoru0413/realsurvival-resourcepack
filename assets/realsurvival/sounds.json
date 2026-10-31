@@ -1,0 +1,26 @@
+{
+  "tree.crack": {
+    "sounds": [
+      {
+        "name": "minecraft:mob/zombie/woodbreak",
+        "pitch": 0.7
+      }
+    ]
+  },
+  "tree.land": {
+    "sounds": [
+      {
+        "name": "minecraft:random/explode1",
+        "pitch": 0.6,
+        "volume": 0.6
+      }
+    ]
+  },
+  "player.drink": {
+    "sounds": [
+      {
+        "name": "minecraft:random/drink"
+      }
+    ]
+  }
+}

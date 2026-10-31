@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "realsurvival:block/branch",
+        "y": 0
+      },
+      {
+        "model": "realsurvival:block/branch",
+        "y": 90
+      },
+      {
+        "model": "realsurvival:block/branch",
+        "y": 180
+      },
+      {
+        "model": "realsurvival:block/branch",
+        "y": 270
+      }
+    ]
+  }
+}
