@@ -2,38 +2,11 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "realsurvival:font/water_full.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\ue000"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "realsurvival:font/water_half.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\ue001"
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "realsurvival:font/water_empty.png",
-      "ascent": 8,
-      "height": 9,
-      "chars": [
-        "\ue002"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "realsurvival:font/thermo_cold.png",
       "ascent": 8,
       "height": 9,
       "chars": [
-        "\ue003"
+        "\ue010"
       ]
     },
     {
@@ -42,7 +15,7 @@
       "ascent": 8,
       "height": 9,
       "chars": [
-        "\ue004"
+        "\ue011"
       ]
     },
     {
@@ -51,7 +24,7 @@
       "ascent": 8,
       "height": 9,
       "chars": [
-        "\ue005"
+        "\ue012"
       ]
     },
     {
@@ -60,7 +33,7 @@
       "ascent": 8,
       "height": 9,
       "chars": [
-        "\ue006"
+        "\ue013"
       ]
     },
     {
@@ -69,8 +42,600 @@
       "ascent": 8,
       "height": 9,
       "chars": [
-        "\ue007"
+        "\ue014"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_0.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue100"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_1.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue101"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_2.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue102"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_3.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue103"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_4.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue104"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_5.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue105"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_6.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue106"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_7.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue107"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_8.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue108"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_9.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue109"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_10.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue10a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_11.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue10b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_12.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue10c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_13.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue10d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_14.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue10e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_15.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue10f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_16.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue110"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_17.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue111"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_18.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue112"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_19.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue113"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_health_20.png",
+      "ascent": -39,
+      "height": 8,
+      "chars": [
+        "\ue114"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_0.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue120"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_1.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue121"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_2.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue122"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_3.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue123"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_4.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue124"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_5.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue125"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_6.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue126"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_7.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue127"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_8.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue128"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_9.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue129"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_10.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue12a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_11.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue12b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_12.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue12c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_13.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue12d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_14.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue12e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_15.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue12f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_16.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue130"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_17.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue131"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_18.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue132"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_19.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue133"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_food_20.png",
+      "ascent": -48,
+      "height": 8,
+      "chars": [
+        "\ue134"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_0.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue140"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_1.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue141"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_2.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue142"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_3.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue143"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_4.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue144"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_5.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue145"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_6.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue146"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_7.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue147"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_8.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue148"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_9.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue149"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_10.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue14a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_11.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue14b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_12.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue14c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_13.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue14d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_14.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue14e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_15.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue14f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_16.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue150"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_17.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue151"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_18.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue152"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_19.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue153"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/bar_water_20.png",
+      "ascent": -57,
+      "height": 8,
+      "chars": [
+        "\ue154"
+      ]
+    },
+    {
+      "type": "space",
+      "advances": {
+        "\ue200": -1,
+        "\ue210": 1,
+        "\ue201": -2,
+        "\ue211": 2,
+        "\ue202": -4,
+        "\ue212": 4,
+        "\ue203": -8,
+        "\ue213": 8,
+        "\ue204": -16,
+        "\ue214": 16,
+        "\ue205": -32,
+        "\ue215": 32,
+        "\ue206": -64,
+        "\ue216": 64,
+        "\ue207": -128,
+        "\ue217": 128,
+        "\ue208": -256,
+        "\ue218": 256,
+        "\ue209": -512,
+        "\ue219": 512
+      }
     }
   ]
 }
