@@ -622,6 +622,330 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -5,
+      "height": 3,
+      "chars": [
+        "\ue400"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -8,
+      "height": 3,
+      "chars": [
+        "\ue401"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -11,
+      "height": 3,
+      "chars": [
+        "\ue402"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -14,
+      "height": 3,
+      "chars": [
+        "\ue403"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -17,
+      "height": 3,
+      "chars": [
+        "\ue404"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -20,
+      "height": 3,
+      "chars": [
+        "\ue405"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -23,
+      "height": 3,
+      "chars": [
+        "\ue406"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -26,
+      "height": 3,
+      "chars": [
+        "\ue407"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -29,
+      "height": 3,
+      "chars": [
+        "\ue408"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -32,
+      "height": 3,
+      "chars": [
+        "\ue409"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -35,
+      "height": 3,
+      "chars": [
+        "\ue40a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -38,
+      "height": 3,
+      "chars": [
+        "\ue40b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -41,
+      "height": 3,
+      "chars": [
+        "\ue40c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -44,
+      "height": 3,
+      "chars": [
+        "\ue40d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -47,
+      "height": 3,
+      "chars": [
+        "\ue40e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -50,
+      "height": 3,
+      "chars": [
+        "\ue40f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -53,
+      "height": 3,
+      "chars": [
+        "\ue410"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -56,
+      "height": 3,
+      "chars": [
+        "\ue411"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -59,
+      "height": 3,
+      "chars": [
+        "\ue412"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -62,
+      "height": 3,
+      "chars": [
+        "\ue413"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -65,
+      "height": 3,
+      "chars": [
+        "\ue414"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -68,
+      "height": 3,
+      "chars": [
+        "\ue415"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -71,
+      "height": 3,
+      "chars": [
+        "\ue416"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -74,
+      "height": 3,
+      "chars": [
+        "\ue417"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -77,
+      "height": 3,
+      "chars": [
+        "\ue418"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -80,
+      "height": 3,
+      "chars": [
+        "\ue419"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -83,
+      "height": 3,
+      "chars": [
+        "\ue41a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -86,
+      "height": 3,
+      "chars": [
+        "\ue41b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -89,
+      "height": 3,
+      "chars": [
+        "\ue41c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -92,
+      "height": 3,
+      "chars": [
+        "\ue41d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -95,
+      "height": 3,
+      "chars": [
+        "\ue41e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -98,
+      "height": 3,
+      "chars": [
+        "\ue41f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -101,
+      "height": 3,
+      "chars": [
+        "\ue420"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -104,
+      "height": 3,
+      "chars": [
+        "\ue421"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -107,
+      "height": 3,
+      "chars": [
+        "\ue422"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "realsurvival:font/map_pixel.png",
+      "ascent": -110,
+      "height": 3,
+      "chars": [
+        "\ue423"
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "\ue200": -1,
