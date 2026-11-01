@@ -1,0 +1,265 @@
+{
+  "textures": {
+    "t": "realsurvival:item/parts",
+    "particle": "realsurvival:item/parts"
+  },
+  "elements": [
+    {
+      "from": [
+        7,
+        9.25,
+        -7
+      ],
+      "to": [
+        9,
+        11.25,
+        -3
+      ],
+      "faces": {
+        "north": {
+          "texture": "#t",
+          "uv": [
+            2.5,
+            0.5,
+            3.5,
+            1.5
+          ]
+        },
+        "south": {
+          "texture": "#t",
+          "uv": [
+            2.5,
+            0.5,
+            3.5,
+            1.5
+          ]
+        },
+        "east": {
+          "texture": "#t",
+          "uv": [
+            2.5,
+            0.5,
+            3.5,
+            1.5
+          ]
+        },
+        "west": {
+          "texture": "#t",
+          "uv": [
+            2.5,
+            0.5,
+            3.5,
+            1.5
+          ]
+        },
+        "up": {
+          "texture": "#t",
+          "uv": [
+            2.5,
+            0.5,
+            3.5,
+            1.5
+          ]
+        },
+        "down": {
+          "texture": "#t",
+          "uv": [
+            2.5,
+            0.5,
+            3.5,
+            1.5
+          ]
+        }
+      }
+    },
+    {
+      "from": [
+        6.8,
+        9.85,
+        -6
+      ],
+      "to": [
+        9.2,
+        10.65,
+        -5
+      ],
+      "faces": {
+        "north": {
+          "texture": "#t",
+          "uv": [
+            0.5,
+            0.5,
+            1.5,
+            1.5
+          ]
+        },
+        "south": {
+          "texture": "#t",
+          "uv": [
+            0.5,
+            0.5,
+            1.5,
+            1.5
+          ]
+        },
+        "east": {
+          "texture": "#t",
+          "uv": [
+            0.5,
+            0.5,
+            1.5,
+            1.5
+          ]
+        },
+        "west": {
+          "texture": "#t",
+          "uv": [
+            0.5,
+            0.5,
+            1.5,
+            1.5
+          ]
+        },
+        "up": {
+          "texture": "#t",
+          "uv": [
+            0.5,
+            0.5,
+            1.5,
+            1.5
+          ]
+        },
+        "down": {
+          "texture": "#t",
+          "uv": [
+            0.5,
+            0.5,
+            1.5,
+            1.5
+          ]
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        1
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        1
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        -8.95,
+        6.0,
+        -3
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        -8.95,
+        6.0,
+        -3
+      ],
+      "scale": [
+        0.55,
+        0.55,
+        0.55
+      ]
+    },
+    "gui": {
+      "rotation": [
+        20,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.62,
+        0.62,
+        0.62
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.45,
+        0.45,
+        0.45
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        90,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    }
+  }
+}

@@ -1,7 +1,96 @@
 {
   "hand_animation_on_swap": false,
   "model": {
-    "type": "minecraft:model",
-    "model": "realsurvival:item/semi_pistol"
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "realsurvival:item/semi_pistol"
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": 0,
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "realsurvival:item/semi_pistol_holo"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": 1,
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "realsurvival:item/semi_pistol_scope"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": 2,
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "realsurvival:item/semi_pistol_suppressor"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": 3,
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "realsurvival:item/semi_pistol_brake"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": 4,
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "realsurvival:item/semi_pistol_laser"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": 5,
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "realsurvival:item/semi_pistol_light"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:condition",
+        "property": "minecraft:custom_model_data",
+        "index": 6,
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "realsurvival:item/semi_pistol_mag"
+        },
+        "on_false": {
+          "type": "minecraft:empty"
+        }
+      }
+    ]
   }
 }

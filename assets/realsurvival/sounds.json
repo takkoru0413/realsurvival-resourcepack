@@ -214,6 +214,14 @@
       }
     ]
   },
+  "gun.suppressed": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/suppressed",
+        "attenuation_distance": 16
+      }
+    ]
+  },
   "gun.reload": {
     "sounds": [
       {
@@ -239,6 +247,46 @@
     "sounds": [
       {
         "name": "realsurvival:gun/aim"
+      }
+    ]
+  },
+  "event.heli": {
+    "sounds": [
+      {
+        "name": "realsurvival:event/heli",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "event.plane": {
+    "sounds": [
+      {
+        "name": "realsurvival:event/plane",
+        "attenuation_distance": 192
+      }
+    ]
+  },
+  "event.tank": {
+    "sounds": [
+      {
+        "name": "realsurvival:event/tank",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "event.horn": {
+    "sounds": [
+      {
+        "name": "realsurvival:event/horn",
+        "attenuation_distance": 256
+      }
+    ]
+  },
+  "event.cannon": {
+    "sounds": [
+      {
+        "name": "realsurvival:event/cannon",
+        "attenuation_distance": 128
       }
     ]
   }
