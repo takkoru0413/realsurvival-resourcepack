@@ -613,6 +613,15 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "realsurvival:font/tree_bg.png",
+      "ascent": 13,
+      "height": 222,
+      "chars": [
+        "\ue300"
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "\ue200": -1,
