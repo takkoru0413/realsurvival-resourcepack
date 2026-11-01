@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "realsurvival:road_sign"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "realsurvival:road_sign"
+      }
+    ]
+  }
+}

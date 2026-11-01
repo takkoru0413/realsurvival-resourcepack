@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "realsurvival:burlap"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "realsurvival:burlap"
+      }
+    ]
+  }
+}

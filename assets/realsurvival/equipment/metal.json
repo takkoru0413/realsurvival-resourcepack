@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "realsurvival:metal"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "realsurvival:metal"
+      }
+    ]
+  }
+}
