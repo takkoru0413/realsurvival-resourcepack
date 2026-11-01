@@ -1,0 +1,7 @@
+{
+  "hand_animation_on_swap": false,
+  "model": {
+    "type": "minecraft:model",
+    "model": "realsurvival:item/double_barrel_shotgun_aim"
+  }
+}

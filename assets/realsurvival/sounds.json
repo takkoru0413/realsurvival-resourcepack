@@ -57,5 +57,189 @@
         "volume": 0.5
       }
     ]
+  },
+  "gun.revolver": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/revolver_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/revolver_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.waterpipe_shotgun": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/waterpipe_shotgun_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/waterpipe_shotgun_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.double_barrel_shotgun": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/double_barrel_shotgun_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/double_barrel_shotgun_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.semi_pistol": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/semi_pistol_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/semi_pistol_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.python": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/python_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/python_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.semi_rifle": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/semi_rifle_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/semi_rifle_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.thompson": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/thompson_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/thompson_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.custom_smg": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/custom_smg_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/custom_smg_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.mp5": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/mp5_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/mp5_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.ak47": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/ak47_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/ak47_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.lr300": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/lr300_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/lr300_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.bolt_rifle": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/bolt_rifle_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/bolt_rifle_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.rocket_launcher": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/rocket_launcher_1",
+        "attenuation_distance": 96
+      },
+      {
+        "name": "realsurvival:gun/rocket_launcher_2",
+        "attenuation_distance": 96
+      }
+    ]
+  },
+  "gun.reload": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/reload"
+      }
+    ]
+  },
+  "gun.reload_end": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/reload_end"
+      }
+    ]
+  },
+  "gun.empty": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/empty"
+      }
+    ]
+  },
+  "gun.aim": {
+    "sounds": [
+      {
+        "name": "realsurvival:gun/aim"
+      }
+    ]
   }
 }

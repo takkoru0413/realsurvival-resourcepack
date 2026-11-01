@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "realsurvival:scientist"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "realsurvival:scientist"
+      }
+    ]
+  }
+}
