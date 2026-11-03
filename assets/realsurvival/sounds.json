@@ -282,6 +282,14 @@
       }
     ]
   },
+  "event.motor": {
+    "sounds": [
+      {
+        "name": "realsurvival:event/motor",
+        "attenuation_distance": 48
+      }
+    ]
+  },
   "event.cannon": {
     "sounds": [
       {
